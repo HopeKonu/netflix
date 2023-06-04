@@ -7,9 +7,5 @@ pipeline {
                 echo 'Hello World'
             }
         }
-        stage ('open'){
-            steps {
-                echo 'me'
     }
 }
-

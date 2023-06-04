@@ -7,12 +7,8 @@ pipeline {
                 echo 'Hello World'
             }
         }
-             stage ('own'){
+            stage ('own'){
             steps{
                 echo "find"
             }
         }
-
-    }
-    }
-}

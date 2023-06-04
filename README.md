@@ -9,7 +9,7 @@ pipeline {
         }
         stage ('open'){
             steps {
-                echo "me"
+                echo 'me'
     }
 }
 
